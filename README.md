@@ -1,6 +1,7 @@
 # EXPERIMENT-05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD
-## NAME:SANJITH.R
-## REGISTER NUMBER:212223230191
+## NAME:SURYA.R
+## REGISTER NUMBER: 212224040339
+
 ## Aim: 
 
 To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
@@ -108,7 +109,7 @@ GND is the ground pin.
 
 
 ## STM 32 CUBE PROGRAM :
-```c
+```
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -438,9 +439,18 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots on serial monitor   :
+
+
+<img width="960" height="1106" alt="image" src="https://github.com/user-attachments/assets/8f08b695-6daa-492b-bcdf-13ad31d3bc82" />
+
+
+<img width="1055" height="668" alt="image" src="https://github.com/user-attachments/assets/2c28320e-a3d3-40b5-9037-9470b3e82828" />
+
+
+
  
- <img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/15d4e16b-af27-41d7-b6a7-b1d7921c4d4c" />
-
-
+ 
+ 
+ 
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 

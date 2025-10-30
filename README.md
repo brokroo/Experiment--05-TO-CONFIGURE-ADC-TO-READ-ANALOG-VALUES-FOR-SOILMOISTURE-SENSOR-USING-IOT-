@@ -441,7 +441,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots on serial monitor   :
 
 
-<img width="209" height="260" alt="image" src="https://github.com/user-attachments/assets/921e59eb-2186-4e75-afd6-c5a2b195979d" />
+<img width="960" height="1088" alt="cf1fbf08-c31c-4f82-b899-2276458b4f57 (1)" src="https://github.com/user-attachments/assets/ceec0114-4886-431e-86d0-530b9126d3ec" />
 
 
 <img width="1055" height="668" alt="image" src="https://github.com/user-attachments/assets/2c28320e-a3d3-40b5-9037-9470b3e82828" />
